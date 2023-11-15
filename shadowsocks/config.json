@@ -1,5 +1,5 @@
 {
-    "server":["projectname-username.dotcloud.com"],
+    "server":["wclshadowsocksd.onrender.com"],
     "local_port":1080,
     "password":"`try*(^^$some^$%^complex>:<>?~password/",
     "timeout":600,
